@@ -1,0 +1,2 @@
+openai>=0.10.2
+langchain>=0.1.0
